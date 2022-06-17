@@ -1,1 +1,1 @@
-Página dedicada a criar um portfólio pessoal do que foi feito por mim neste ano.
+Página dedicada a criar um website que mostre meus conhecimentos adquiridos.
