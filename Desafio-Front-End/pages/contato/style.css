@@ -1,0 +1,106 @@
+.divContatoExplicacao {
+    display: flex;
+    width: 1111px;
+}
+
+.h1EntreEmContato {
+    width: 307px;
+    height: 42px;
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin: 143px 0px 0px 165px;
+}
+
+.pContatoTexto {
+    width: 635px;
+    height: 180px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin: 143px 165px 0px 165px;
+}
+
+.divIcons {
+    display: flex;
+}
+
+.listaIcons {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+}
+
+.imgIcons {
+    margin: 54px 0px 0px 0px;
+}
+
+.imgGithub {
+    margin-left: 120px;
+}
+
+.divForm {
+    display: flex;
+    width: 1111px;
+    align-self: center;
+}
+
+.divContatoForm {
+    width: 50%;
+}
+
+.h1ContatoForm {
+    height: 42px;
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin: 97px 0px 0px 165px;
+}
+
+.divCamposForm {
+    width: 50%;
+}
+
+.listaCamposForm {
+    list-style-type: none;
+}
+
+.positionFormH3 {
+    width: 635px;
+    height: 30px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin: 0px 165px 0px 29px;
+}
+
+.h3Nome {
+    margin-top: 96px;
+}
+
+.positionForm {
+    width: 635px;
+    height: 48px;
+    background-color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.1;
+    margin: 0px 165px 0px 29px;
+}
