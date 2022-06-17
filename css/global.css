@@ -1,0 +1,98 @@
+header {
+    width: 1200px;
+    display: flex;
+    margin: 20px 0px 0px 50px;
+}
+
+.navHeader {
+    display: flex;
+    align-items: center;
+}
+
+.logoAR {
+    width: 150px;
+    height: 100px;
+}
+
+.listaMenuTopo {
+    display: flex;
+    list-style-type: none;
+    gap: 42px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+}
+
+.menuTopoLink {
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.1px;
+    letter-spacing: 2px;
+}
+
+.menuTopoLink:hover {
+    font-size: 15px;
+}
+
+.colorGreenMenu {
+    color: #5FB4A2;
+}
+
+.colorBlackMenu {
+    color: #33323D;
+}
+
+.btnEntreEmContato {
+    display: flex;
+    border: 1px solid #33323D;
+    border-radius: 10px;
+    color: #F2F2F2;
+    box-sizing: border-box;
+    width: 204px;
+    height: 48px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 280px;
+}
+
+.btnEntreEmContato:hover {
+    background-color: #5FB4A2;
+}
+
+.pEntreEmContato {
+    color: black;
+    font-family: 'Public Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.1px;
+    letter-spacing: 2px;
+}
+
+.listaFooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    gap: 40px;
+}
+
+.iconFooter {
+    width: 25px;
+    height: 25px;
+}
+
+.divBy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pBy {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: -0.36px;
+    margin-left: 675px;
+}
