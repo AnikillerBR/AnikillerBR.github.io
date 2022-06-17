@@ -106,6 +106,7 @@ section {}
 .btnPortfolio {
     display: flex;
     border: 1px solid #33323D;
+    border-radius: 10px;
     color: #F2F2F2;
     box-sizing: border-box;
     width: 204px;
@@ -155,6 +156,7 @@ section {}
 .btnContato {
     display: flex;
     border: 1px solid #33323D;
+    border-radius: 10px;
     width: 168px;
     height: 48px;
     box-sizing: border-box;
