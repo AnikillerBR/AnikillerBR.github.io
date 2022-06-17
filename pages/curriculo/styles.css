@@ -19,6 +19,10 @@ a {
     letter-spacing: 2px;
 }
 
+.aMenuPdfGreen {
+    color: #5FB4A2;
+}
+
 .pdf {
     height: 100vh;
 }
