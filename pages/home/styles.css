@@ -172,30 +172,3 @@ section {}
     margin: 15px 50px 15px 50px;
     text-align: center;
 }
-
-.listaFooter {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    list-style-type: none;
-    gap: 40px;
-}
-
-.iconFooter {
-    width: 25px;
-    height: 25px;
-}
-
-.divBy {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.pBy {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 18px;
-    letter-spacing: -0.36px;
-    margin-left: 675px;
-}
