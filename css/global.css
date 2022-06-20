@@ -15,8 +15,8 @@ header {
 }
 
 .logoAR {
-    width: 150px;
-    height: 100px;
+    width: 170px;
+    height: 130px;
 }
 
 .listaMenuTopo {
@@ -111,5 +111,5 @@ header {
     font-size: 18px;
     line-height: 18px;
     letter-spacing: -0.36px;
-    margin-left: 675px;
+    margin-left: 585px;
 }
